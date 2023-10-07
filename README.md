@@ -1,0 +1,2 @@
+# PatikaStoreApp
+PatikaStore application
